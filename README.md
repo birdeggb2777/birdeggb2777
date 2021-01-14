@@ -35,7 +35,7 @@
 * [最佳口頭論文獎]"BlueLight: Taiwan's indigenous medical imaging browsing system",關於醫學影像的論文，發表至2020年國際醫學資訊聯合研討會
 * "Development of Standardization DICOMWeb Medical Image Database", 關於醫學影像的論文，發表至2019年國際醫學資訊聯合研討會
 
-### 軟體著作：
+### 🖥軟體著作：
 * BlueLight：國內首個開源DICOMWeb醫學影像瀏覽系統
 * ldcmView：DICOMWeb醫學影像瀏覽系統
 * mTSS:類風溼性關節炎影像標記輔助系統
