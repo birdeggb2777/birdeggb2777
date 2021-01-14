@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**birdeggb2777/birdeggb2777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### 個人簡介：
 * 筆名：可雷塔、藍光濾波
 * 綽號：鳥蛋、藍光、嗶莫
