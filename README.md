@@ -90,5 +90,5 @@
 * 藍光濾波的電腦科學研究所(技術文)：http://corettainformation.blogspot.com/
 * 藍光濾波(pixiv)：https://www.pixiv.net/member.php?id=16147335
 * 藍光濾波的動畫工程工作室(Youtube):https://www.youtube.com/channel/UCCefsNuPJMUzHyG9NgNjtRw
-* 陳增澤(維基百科個人頁面)：https://zh.wikipedia.org/wiki/User:%E9%99%B3%E5%A2%9E%E6%BE%A4
+* 陳增澤(維基百科個人頁面)：https://zh.wikipedia.org/wiki/User:陳增澤
 * 藍光濾波的Ai藝術萬花筒(粉絲專頁)：https://www.facebook.com/angelkaleido
