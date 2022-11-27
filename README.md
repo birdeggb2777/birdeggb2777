@@ -1,6 +1,6 @@
 ### 個人簡介：
 * 筆名：可雷塔、藍光濾波
-* 綽號：鳥蛋、藍光、嗶莫
+* 暱稱：鳥蛋、藍光、嗶莫
 * 醫學影像資訊研究者、業餘文手繪手、維基百科編輯者、部落格作家、工程師、自造者、教育人士
 
 大學時便立志想成為一位傑出的軟體工程與電腦科學專家、插畫及動畫師、輕小說作家、以及能夠為人類帶來傑出貢獻的醫療人才
@@ -91,6 +91,6 @@
 * 陳增澤的網誌(部落格)：http://birdeggsblogger1.blogspot.com/
 * 藍光濾波的電腦科學研究所(技術文)：http://corettainformation.blogspot.com/
 * 藍光濾波(pixiv)：https://www.pixiv.net/member.php?id=16147335
-* 藍光濾波的動畫工程工作室(Youtube):https://www.youtube.com/channel/UCCefsNuPJMUzHyG9NgNjtRw
+* 藍光濾波的動畫工程工作室(Youtube):https://www.youtube.com/@acgmaker
 * 陳增澤(維基百科個人頁面)：https://zh.wikipedia.org/wiki/User:陳增澤
 * 藍光濾波的Ai藝術萬花筒(粉絲專頁)：https://www.facebook.com/angelkaleido
