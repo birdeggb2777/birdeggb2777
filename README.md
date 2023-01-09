@@ -34,7 +34,7 @@
 
 ### 🧬期刊論文著作：
 * "BlueLight: An Open Source DICOM Viewer Using Low-Cost Computation Algorithm Implemented with JavaScript Using Advanced Medical Imaging Visualization", 關於3D醫學影像瀏覽系統的論文，發表至Journal of Digital Imaging (2022)
-* "Recognizing the Differentiation Degree of Human Induced Pluripotent Stem Cell-Derived Retinal Pigment Epithelium Cells Using Machine Learning and Deep Learning-Based Approaches", 關於將人工智慧技術應用在幹細胞培養的論文，發表至Cells ()
+* "Recognizing the Differentiation Degree of Human Induced Pluripotent Stem Cell-Derived Retinal Pigment Epithelium Cells Using Machine Learning and Deep Learning-Based Approaches", 關於將人工智慧技術應用在幹細胞培養的論文，發表至Cells (2023)
 
 ### 📔研討會論文著作：
 * [最佳口頭論文獎]”BlueLight: Taiwan’s indigenous medical imaging browsing system”, 關於醫學影像的論文，發表至2020年國際醫學資訊聯合研討會。
