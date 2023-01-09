@@ -38,7 +38,7 @@
 
 ### 📔研討會論文著作：
 * [最佳口頭論文獎]”BlueLight: Taiwan’s indigenous medical imaging browsing system”, 關於醫學影像的論文，發表至2020年國際醫學資訊聯合研討會。
-* Induced Pluripotent Stem Cells”, 關於幹細胞培養自動化的論文，發表至2021 年生物醫學工程科技研討會。
+* "Use Convolutional Neural Network for Classification of the Differentiation of the Induced Pluripotent Stem Cells", 關於幹細胞培養自動化的論文，發表至2021 年生物醫學工程科技研討會。
 * “Develop the integrated medical imaging research repository based on open source and decentralized architecture”, 關於資料庫的論文，發表至2021 年生物醫學工程科技研討會。
 * “Development of Standardization DICOMWeb Medical Image Database”, 關於醫學影像的論文，發表至2019年國際醫學資訊聯合研討會。
 
