@@ -32,10 +32,14 @@
 * 興趣：應用軟體開發、電玩遊戲設計、影像編修繪圖、電子音樂創作、輕小說寫作
 * 專長：醫學影像技術、數位影像處理、影像分類、遊戲動畫多媒體設計
 
-### 📔論文著作：
-* [最佳口頭論文獎]”BlueLight: Taiwan’s indigenous medical imaging browsing system”,關於醫學影像的論文，發表至2020年國際醫學資訊聯合研討會。
-* Induced Pluripotent Stem Cells”,關於幹細胞培養自動化的論文，發表至2021 年生物醫學工程科技研討會。
-* “Develop the integrated medical imaging research repository based on open source and decentralized architecture”,關於資料庫的論文，發表至2021 年生物醫學工程科技研討會。
+### 🧬期刊論文著作：
+* "BlueLight: An Open Source DICOM Viewer Using Low-Cost Computation Algorithm Implemented with JavaScript Using Advanced Medical Imaging Visualization", 關於3D醫學影像瀏覽系統的論文，發表至Journal of Digital Imaging (2022)
+* "Recognizing the Differentiation Degree of Human Induced Pluripotent Stem Cell-Derived Retinal Pigment Epithelium Cells Using Machine Learning and Deep Learning-Based Approaches", 關於將人工智慧技術應用在幹細胞培養的論文，發表至Cells ()
+
+### 📔研討會論文著作：
+* [最佳口頭論文獎]”BlueLight: Taiwan’s indigenous medical imaging browsing system”, 關於醫學影像的論文，發表至2020年國際醫學資訊聯合研討會。
+* Induced Pluripotent Stem Cells”, 關於幹細胞培養自動化的論文，發表至2021 年生物醫學工程科技研討會。
+* “Develop the integrated medical imaging research repository based on open source and decentralized architecture”, 關於資料庫的論文，發表至2021 年生物醫學工程科技研討會。
 * “Development of Standardization DICOMWeb Medical Image Database”, 關於醫學影像的論文，發表至2019年國際醫學資訊聯合研討會。
 
 ### 🖥主要專案：
