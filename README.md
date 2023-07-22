@@ -34,6 +34,10 @@
 * 興趣：應用軟體開發、電玩遊戲設計、影像編修繪圖、電子音樂創作、輕小說寫作
 * 專長：醫學影像技術、數位影像處理、影像分類、遊戲動畫多媒體設計
 
+### 🧪學術研究：
+* 使用機器學習預測誘導性多功能幹細胞衍生的視網膜細胞與血管類器官之分化成熟度(碩士論文)
+* 發展DICOMweb標準之HTML5醫學影像瀏覽系統(科技部大專生研究計畫)
+
 ### 🧬期刊論文著作：
 * "BlueLight: An Open Source DICOM Viewer Using Low-Cost Computation Algorithm Implemented with JavaScript Using Advanced Medical Imaging Visualization", 關於3D醫學影像瀏覽系統的論文，發表至Journal of Digital Imaging (2022)
 * "Recognizing the Differentiation Degree of Human Induced Pluripotent Stem Cell-Derived Retinal Pigment Epithelium Cells Using Machine Learning and Deep Learning-Based Approaches", 關於將人工智慧技術應用在幹細胞培養的論文，發表至Cells (2023)
